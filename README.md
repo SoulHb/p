@@ -10,9 +10,9 @@ pyarmor gen file_name
 
 pyarmor gen foo.py
 
-## Run Obfuscated Scripts:
+## Run obfuscated script dist/foo.py as normal Python script:
 
-Run obfuscated script dist/foo.py as normal Python script ---> cd dist python foo.py
+cd dist python file_name
 
 
 

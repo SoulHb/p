@@ -1,16 +1,16 @@
-##Install:
+## Install:
 
 pip install pyarmor
 
-##Obfuscate script:
+## Obfuscate script:
 
 pyarmor gen file_name
 
-##Example:
+## Example:
 
 pyarmor gen foo.py
 
-##Run Obfuscated Scripts:
+## Run Obfuscated Scripts:
 
 Run obfuscated script dist/foo.py as normal Python script ---> cd dist python foo.py
 
